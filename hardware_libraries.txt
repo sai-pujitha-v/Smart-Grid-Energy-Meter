@@ -1,0 +1,4 @@
+1. WiFi (Built-in)
+2. HTTPClient (Built-in)
+3. EmonLib (by OpenEnergyMonitor)
+4. ArduinoJson (by Benoit Blanchon)
